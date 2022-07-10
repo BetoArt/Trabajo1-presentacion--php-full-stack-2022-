@@ -1,0 +1,153 @@
+* {
+    margin: 0px;
+    padding:0px;
+   
+}
+
+
+header{
+    text-align: center;
+  
+
+}
+
+
+main{
+    width: 60%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#banner {
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+img[src="imagenes/banner800x350.jpg"]{ 
+    display:block;
+    margin:auto;
+    width: 100%;
+    border:2px solid #033478;
+    border-radius: 10px;
+}
+
+h1{
+    font:bold 20px verdana, sans-serif;
+	margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+   
+}
+
+h2{
+    font:bold 16px verdana, sans-serif;
+	margin-top: 10px;
+    
+   
+}
+
+#caja-titulo {
+   
+    height:40px;
+    background-color: blue;
+    border:2px solid blue;
+
+}
+
+a {
+
+   text-decoration: none;
+   color: white;
+   background-color: blue;
+   border:5px solid blue;
+   border-radius: 10px;
+
+
+}
+
+p {
+    Margin-top: 20px;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+
+iframe {
+    display: block;
+    width:300px;
+	height:225px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+.borde-iframe {
+    width:360px;
+	height:285px;
+    margin: auto;
+    margin-top: 25px;
+    border: solid 1px #3C43BF; 
+    background-image:  url("../Imagenes/fondo-mapa.gif");
+}
+
+footer {
+    height:100px;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    margin-top:20px;
+ 
+
+    
+}
+
+
+ul a:link{
+    background-color: transparent;
+    border:none;
+}
+
+.redes {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.txt-redes {
+    Margin-top: 20px;
+}
+
+img[src="imagenes/tenis.jpg"]{ 
+    display:block;
+    margin:auto;
+    width: 50%;
+    height: 50%;
+    border:2px solid #033478;
+    border-radius: 10px;
+}
+
+h1{
+    font:bold 20px verdana, sans-serif;
+	margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;   
+}
+
+.separacion {
+    margin-top: 15px;  
+}
+
+ol a:link{
+    background-color: transparent;
+    border:none;
+}
+
+/*******************************linea de 000*****************/
+
+.disclaimer{
+    display:none;
+}
